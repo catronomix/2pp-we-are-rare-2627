@@ -15,3 +15,4 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 Innocent Coppieters
+* [Matteo Wouters](./people/matteo_wouters.md)
