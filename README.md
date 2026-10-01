@@ -15,4 +15,6 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 
+*
+
 * [Erik Harding] (./people/erik_harding.md)
