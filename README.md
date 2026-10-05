@@ -16,3 +16,4 @@ See: [Contributing](./CONTRIBUTING.md)
 
 * [Innocent Coppieters](./people/innocent_coppieters.md)
 * [Matteo Wouters](./people/matteo_wouters.md)
+* [Liza Kolumbet](./people/liza_kolumbet.md)
