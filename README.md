@@ -15,4 +15,4 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 
-Xavier Toussaint
+- [Xavier Toussaint](./people/xavier.md)
