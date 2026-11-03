@@ -13,6 +13,8 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
+* [Matteo Wouters](./people/matteo_wouters.md)
+* [Yevhen Medvedkov](people/yevhen_medvedkov.md)
 * [Ben Lejeune](./people/ben_lejeune.md)
 * [Matteo Wouters](./people/matteo_wouters.md)
 * [Sarah Ejdaâ](./people/ejdaa.md)
