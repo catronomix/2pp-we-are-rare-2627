@@ -13,9 +13,13 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
-
-<<<<<<< Updated upstream
 * [Matteo Wouters](./people/matteo_wouters.md)
-=======
 - [Kiara Ballesteros](./people/kiara_ballesteros.md)
->>>>>>> Stashed changes
+* [Matteo Wouters](./people/matteo_wouters.md)
+* [Yevhen Medvedkov](people/yevhen_medvedkov.md)
+* [Ben Lejeune](./people/ben_lejeune.md)
+* [Matteo Wouters](./people/matteo_wouters.md)
+* [Sarah Ejdaâ](./people/ejdaa.md)
+* [Erik Harding](./people/erik_harding.md)
+* [Matteo Wouters](./people/matteo_wouters.md)
+* [Liza Kolumbet](./people/liza_kolumbet.md)
