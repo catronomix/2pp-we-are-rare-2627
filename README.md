@@ -13,8 +13,9 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
+* [Xavier Toussaint](./people/xavier.md)
 * [Matteo Wouters](./people/matteo_wouters.md)
-- [Kiara Ballesteros](./people/kiara_ballesteros.md)
+* [Kiara Ballesteros](./people/kiara_ballesteros.md)
 * [Matteo Wouters](./people/matteo_wouters.md)
 * [Yevhen Medvedkov](people/yevhen_medvedkov.md)
 * [Ben Lejeune](./people/ben_lejeune.md)
